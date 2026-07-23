@@ -93,7 +93,7 @@ Hi, I'm **Syed Tamreen** — a **B.Tech Computer Science Engineering student (Gr
 
 ---
 
-## 🌟 Featured Projects
+## 📟 Featured Projects
 
 ### JavaScript Projects
 - 📊 **BMI Calculator**
@@ -108,7 +108,7 @@ Hi, I'm **Syed Tamreen** — a **B.Tech Computer Science Engineering student (Gr
 
 ---
 
-## 🏆 Hackathons
+## 🎆 Hackathons
 
 Participated at:
 - **RGUKT RK Valley** — [Certificate](https://tinyurl.com/RGUKT-RK-VALLEY)
@@ -132,7 +132,7 @@ Participated at:
 
 ---
 
-## 📊 GitHub Analytics
+## 🐙 GitHub Analytics
 
 <div align="center">
 
@@ -146,25 +146,13 @@ Participated at:
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamreen207&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tamreen207/Tamreen207/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-> To enable snake animation, create a GitHub Action that generates `output/snake.svg` in your profile repository.
 
 ---
 
@@ -183,6 +171,6 @@ Participated at:
 
 ### ✨ Building consistently. Learning relentlessly. Shipping purposefully.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,35:1E293B,70:0EA5E9,100:22D3EE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120§ion=footer&color=0:0F172A,35:1E293B,70:0EA5E9,100:22D3EE" width="100%" />
 
 </div>
