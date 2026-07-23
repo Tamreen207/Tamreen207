@@ -1,85 +1,135 @@
-<!-- =========================
-  PREMIUM GITHUB PROFILE README
-  Profile: Tamreen207
-========================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,30:1F6FEB,60:9333EA,100:0D1117&text=Tamreen%20%7C%20Software%20Engineer&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Building%20Scalable%20Systems%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Open%20Source&descAlignY=60" alt="header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Tamreen;Software+Engineer+%7C+AI%2FML+Enthusiast+%7C+Cloud+Builder;I+design%2C+build%2C+and+ship+production-grade+products;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E293B,70:0EA5E9,100:22D3EE&text=Syed%20Tamreen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%92%BB%20Aspiring%20Java%20Full%20Stack%20Developer%20%7C%20%F0%9F%A4%96%20AI%20Enthusiast%20%7C%20%F0%9F%93%9A%20DSA%20Learner&descAlignY=56&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tamreen207&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="visitor counter"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=B.Tech+CSE+Student+%7C+Graduating+in+2028;Passionate+about+Java%2C+JavaScript+%26+Full+Stack+Development;Building+real-world+software+through+code+and+creativity;Hackathon+Participant+%7C+Open+Source+Explorer" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://komarev.com/ghpvc/?username=Tamreen207&style=for-the-badge&color=0ea5e9">
+  <img src="https://komarev.com/ghpvc/?username=Tamreen207&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+</a>
+<a href="https://github.com/Tamreen207?tab=followers">
+  <img src="https://img.shields.io/github/followers/Tamreen207?style=for-the-badge&logo=github&label=Followers&color=1E293B" alt="Followers" />
+</a>
+<a href="https://github.com/Tamreen207?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Tamreen207?style=for-the-badge&logo=github&label=Total%20Stars&color=0F172A" alt="Stars" />
+</a>
 
 </div>
 
 ---
 
-## 🌊 About Me
+## 👨‍💻 Professional Snapshot
 
-- 🔭 Currently building scalable, real-world software products  
-- 🌱 Learning advanced **Cloud Architecture**, **MLOps**, and **System Design**
-- 🤝 Open to collaboration on **AI**, **Developer Tools**, and **Open Source**
-- 💼 Interested in **Software Engineering**, **Backend**, **Cloud**, and **Applied AI**
-- 🎯 Goal: Deliver high-impact, user-centric products with measurable outcomes
+Hi, I'm **Syed Tamreen** — a **B.Tech Computer Science Engineering student (Graduating in 2028)** with a strong interest in building impactful software products.
+
+- 💡 Passionate about **Java, JavaScript, Full Stack Development, Artificial Intelligence, and DSA**
+- 🧠 I enjoy solving real-world problems through software engineering
+- 🏁 Active **Hackathon Participant**
+- 📈 Continuously learning modern software development practices
+- 🌍 Interested in meaningful **Open Source** contributions
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Current Learning Journey
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0EA5E9?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/React-061A2B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-143D2A?style=for-the-badge&logo=node.js&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0B2A1A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-1E293B?style=for-the-badge&logo=openai&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8" />
 </p>
 
-### 🧱 Frameworks & Libraries
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791" />
 </p>
 
-### 🗄️ Databases
+### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=ffffff" />
 </p>
 
-### 🤖 AI / ML
+### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
-### ⚙️ DevOps & Tools
+### 🔧 Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+### JavaScript Projects
+- 📊 **BMI Calculator**
+- 🌌 **Cosmic DOM Effects**
+- ⌨️ **JavaScript Key Detector**
+- 🎯 **Number Guessing Game**
+
+### AI + Full Stack Projects
+- 🗣️ **Speak Sense AI**
+- 🍱 **Food Management System**
+- 🛡️ **Text Fraud Detection**
+
+---
+
+## 🏆 Hackathons
+
+Participated at:
+- **RGUKT RK Valley** — [Certificate](https://tinyurl.com/RGUKT-RK-VALLEY)
+- **Saveetha Engineering College, Chennai**
+- **NRI Institute of Technology, Guntur** — [Certificate](https://tinyurl.com/NRI-clg)
+- **Hack Hustle** — [Certificate](https://tinyurl.com/Hack-Hustle)
+
+---
+
+## 📜 Professional Certifications
+
+- **Google AI Essentials** — [View Certificate](https://shorturl.at/Ao8Cu)
+- **Java Completion Certificate** — [View Certificate](https://tinyurl.com/Java-completion)
+
+---
+
+## 🧾 Workshop Certificates
+
+- **ICAT Participation** — [View Certificate](https://tinyurl.com/ICAT-certificate)
+- **Summer SkillUp Workshop** — [View Certificate](https://tinyurl.com/Summer-Skillup)
+- **NxtWave Workshop Participation** — [View Certificate](https://tinyurl.com/Nxt-Wave)
 
 ---
 
@@ -87,130 +137,53 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tamreen207&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamreen207&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tamreen207&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamreen207&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamreen207&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamreen207&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=Tamreen207&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tamreen207&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true&area=true&area_color=1F6FEB" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamreen207&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tamreen207/Tamreen207/output/snake.svg" alt="snake animation" />
+
+<img src="https://raw.githubusercontent.com/Tamreen207/Tamreen207/output/snake.svg" alt="Snake animation" />
+
 </div>
 
-> To enable snake animation, add a GitHub Action generating `output/snake.svg`.
+> To enable snake animation, create a GitHub Action that generates `output/snake.svg` in your profile repository.
 
 ---
 
-## 🏆 GitHub Trophy
+## 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tamreen207&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-> Pin your best repositories on your GitHub profile and replace links below.
-
-- 🔹 **Project One** — Short one-line impact statement  
-  `Tech:` Python, FastAPI, PostgreSQL  
-  🔗 https://github.com/Tamreen207/project-one
-
-- 🔹 **Project Two** — Short one-line impact statement  
-  `Tech:` React, Node.js, MongoDB  
-  🔗 https://github.com/Tamreen207/project-two
-
-- 🔹 **Project Three** — Short one-line impact statement  
-  `Tech:` AWS, Docker, CI/CD  
-  🔗 https://github.com/Tamreen207/project-three
-
----
-
-## 🎓 Certifications
-
-- ✅ AWS Certified Cloud Practitioner *(or in progress)*
-- ✅ Google Data Analytics *(or equivalent)*
-- ✅ TensorFlow / Deep Learning Certification
-
----
-
-## 🏁 Hackathons
-
-- 🥇 Hackathon Name — *Position / Finalist*  
-- 🛠️ Built: one-line summary of the solution and impact
-
----
-
-## 🌟 Achievements
-
-- 📌 Solved **X+** coding challenges across platforms  
-- 📌 Built and deployed **Y+** end-to-end projects  
-- 📌 Contributed to open-source repositories and community initiatives  
-
----
-
-## 🤝 Open Source
-
-- I enjoy contributing to developer tooling, documentation, and beginner-friendly issues.
-- If you maintain an open-source project, I’m happy to collaborate.
-
----
-
-## 💻 Coding Profiles
-
-<p>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
-  <a href="https://www.codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
-</p>
-
----
-
-## 📄 Resume & Portfolio
-
-<p>
-  <a href="https://example.com/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="https://example.com/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📬 Contact & Socials
-
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X(Twitter)-0D1117?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
-  <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
+<p align="left">
+  <a href="https://github.com/Tamreen207"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/syed-tamreen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-1E293B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 “Code with clarity. Build with purpose. Ship with impact.”
+### ✨ Building consistently. Learning relentlessly. Shipping purposefully.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,30:1F6FEB,60:9333EA,100:0D1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,35:1E293B,70:0EA5E9,100:22D3EE" width="100%" />
 
 </div>
