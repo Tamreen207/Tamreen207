@@ -112,7 +112,6 @@ Hi, I'm **Syed Tamreen** — a **B.Tech Computer Science Engineering student (Gr
 
 Participated at:
 - **RGUKT RK Valley** — [Certificate](https://tinyurl.com/RGUKT-RK-VALLEY)
-- **Saveetha Engineering College, Chennai**
 - **NRI Institute of Technology, Guntur** — [Certificate](https://tinyurl.com/NRI-clg)
 - **Hack Hustle** — [Certificate](https://tinyurl.com/Hack-Hustle)
 
